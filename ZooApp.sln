@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooApp.Models", "ZooApp.Models\ZooApp.Models.csproj", "{1917E02E-821E-4E2D-AE5E-FC6F9E48396C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooApp.Web.Mvc", "ZooApp.Web.Mvc\ZooApp.Web.Mvc.csproj", "{99EADABF-499F-475D-8D54-CDA3B8FE7077}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooApp.Services", "ZooApp.Services\ZooApp.Services.csproj", "{C1DB674F-E0E6-4639-BBBA-4869DEDF3C0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooApp.ViewModels", "ZooApp.ViewModels\ZooApp.ViewModels.csproj", "{A0F2D69C-814F-4577-909B-D896C601B06C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1917E02E-821E-4E2D-AE5E-FC6F9E48396C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1917E02E-821E-4E2D-AE5E-FC6F9E48396C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1917E02E-821E-4E2D-AE5E-FC6F9E48396C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1917E02E-821E-4E2D-AE5E-FC6F9E48396C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99EADABF-499F-475D-8D54-CDA3B8FE7077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99EADABF-499F-475D-8D54-CDA3B8FE7077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99EADABF-499F-475D-8D54-CDA3B8FE7077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99EADABF-499F-475D-8D54-CDA3B8FE7077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1DB674F-E0E6-4639-BBBA-4869DEDF3C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1DB674F-E0E6-4639-BBBA-4869DEDF3C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1DB674F-E0E6-4639-BBBA-4869DEDF3C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1DB674F-E0E6-4639-BBBA-4869DEDF3C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0F2D69C-814F-4577-909B-D896C601B06C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F2D69C-814F-4577-909B-D896C601B06C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F2D69C-814F-4577-909B-D896C601B06C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F2D69C-814F-4577-909B-D896C601B06C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
